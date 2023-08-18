@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  background-color: whitesmoke;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+
+.pop-btn1 {
+  padding: 10px 30px;
+  border: 1px solid #ccc;
+  background-color: white;
+  color: gray;
+  border-radius: 5px;
+}
+
+.pop-btn2 {
+  padding: 10px 30px;
+  background-color: #2072EF;
+  color: white;
+}
